@@ -1,0 +1,14 @@
+[
+    {
+      "name": "2048",
+      "live": "https://nathcoursey.github.io/2048/",
+      "git": "https://github.com/NathCoursey/2048",
+      "image": "https://i.imgur.com/z9AxH7V.png"
+    },
+    {
+      "name": "project2New",
+      "live": "https://arynsgaproject.herokuapp.com/users/login",
+      "git": "https://github.com/sjnay/project2New",
+      "image": "https://i.imgur.com/1dswYZa.jpg"
+    }
+  ]
